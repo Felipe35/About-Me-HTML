@@ -38,12 +38,6 @@ project/
 - [ ] Expand into full **personal portfolio**  
 
 ---
-
-## 📸 Preview
-*(Add a screenshot or GIF of your simulated iPhone here)*
-
----
-
 ## 💡 Inspiration
 This project is inspired by Apple’s **iOS interface** — clean, simple, and intuitive.  
 It’s meant as a fun way to practice **UI/UX with HTML & CSS** and later grow into a **professional portfolio**.
