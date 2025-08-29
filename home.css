@@ -1,0 +1,14 @@
+.home-bar{
+    display: flex;
+    justify-content: center;
+}
+
+.home{
+    width: 50%;
+    height: 5px;
+    background: #000;
+    bottom: 8px;
+    position: absolute;
+    border-radius: 10px;
+    
+}
